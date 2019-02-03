@@ -1,0 +1,11 @@
+{
+  "name": "nyc-bug-demo",
+  "version": "1.0.0",
+  "description": "Literal bigint bug",
+  "scripts" : {
+    "coverage": "nyc node index.js"
+  },
+  "devDependencies": {
+    "nyc": "^13.1.0"
+  }
+}
